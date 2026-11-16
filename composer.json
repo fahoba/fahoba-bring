@@ -2,11 +2,11 @@
     "name": "fahoba/bring",
     "description": "Bring! shopping lists for Fahoba, synced both ways",
     "type": "library",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "license": "PolyForm-Shield-1.0.0",
     "require": {
         "php": "^8.5",
-        "fahoba/plugin-api": "^0.1"
+        "fahoba/plugin-api": "^0.1 || ^0.2"
     },
     "autoload": {
         "psr-4": {
